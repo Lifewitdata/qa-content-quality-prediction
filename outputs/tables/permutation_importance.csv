@@ -1,0 +1,16 @@
+feature,importance_mean_pr_auc_drop,importance_std
+log_word_count,0.1295,0.0053
+asker_prior_quality_rate,0.0101,0.0047
+asker_device_type,0.0027,0.0007
+word_count,0.0025,0.0021
+word_count_z_within_topic,0.0022,0.002
+topic,0.0019,0.0014
+asker_country,0.0014,0.0013
+asker_prior_questions_count,0.0009,0.0005
+variant,0.0005,0.0007
+created_is_weekend,0.0001,0.0001
+topic_prior_quality_rate,0.0001,0.0002
+asker_account_age_at_question_days,0.0,0.0002
+account_age_bucket,-0.0,0.0002
+created_dow,-0.0005,0.0008
+topic_prior_count,-0.0005,0.0006

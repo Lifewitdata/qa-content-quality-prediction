@@ -1,0 +1,6 @@
+word_count_bucket,test_accuracy
+very_short,0.927
+short,0.829
+medium,0.453
+long,0.44
+very_long,0.549

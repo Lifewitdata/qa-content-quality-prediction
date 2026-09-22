@@ -1,0 +1,5 @@
+outcome,count,mean_word_count,mean_engagement_score
+TN,2457,24.9,0.167
+FP,1757,56.5,0.186
+FN,502,27.2,0.33
+TP,942,64.1,0.345

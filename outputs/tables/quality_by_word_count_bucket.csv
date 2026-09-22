@@ -1,0 +1,6 @@
+word_count_bucket,n,quality_rate,high_engagement_rate,avg_upvotes
+very_short,2528,0.558,0.089,4.084
+short,12379,0.647,0.174,5.355
+medium,16751,0.724,0.276,6.73
+long,5612,0.776,0.396,7.999
+very_long,449,0.808,0.474,8.935
